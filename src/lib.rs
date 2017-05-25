@@ -1,3 +1,6 @@
+#![feature(associated_consts)]
+extern crate rocket;
+
 use rocket::request::{FromForm, FormItems};
 
 /// This trait is used to get the names of the fields of the structures.
