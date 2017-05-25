@@ -6,6 +6,7 @@ description = """
 Query Param Groups for the Rocket framework
 """
 license = "MIT/Apache-2.0"
+repository = "https://github.com/rbalicki2/rocket-query-param-group"
 
 [dependencies]
 rocket = "0.2.6"
