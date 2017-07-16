@@ -1,6 +1,6 @@
 [package]
 name = "query_param_group"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Robert <robert.balicki@gmail.com>"]
 description = """
 Query Param Groups for the Rocket framework
@@ -9,4 +9,4 @@ license = "MIT/Apache-2.0"
 repository = "https://github.com/rbalicki2/rocket-query-param-group"
 
 [dependencies]
-rocket = "^0.2.6"
+rocket = "^0.3.0"

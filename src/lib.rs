@@ -1,4 +1,3 @@
-#![feature(associated_consts)]
 extern crate rocket;
 
 use rocket::request::{FromForm, FormItems};
