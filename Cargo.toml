@@ -1,6 +1,6 @@
 [package]
 name = "query_param_group"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Robert <robert.balicki@gmail.com>"]
 description = """
 Query Param Groups for the Rocket framework
